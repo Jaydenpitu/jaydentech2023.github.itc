@@ -1,0 +1,62 @@
+body{
+	pedding:0;
+	margin:0;
+	background-image:url(../images/j.jpg);
+	background-repeat: no-repeat;
+	box-sizing: border-box;
+	background-size: cover;
+
+}
+
+h1{
+	color: orange;
+}
+
+p{
+	flood-color: yellow;
+}
+.love{color:darkgoldenrod;
+	text-align: center;
+	background-image: url(../images/z.jpg);
+	padding: 50px;
+	width:100%;
+	text size:bold;
+
+
+}
+.you{
+	color: rgb(128, 0, 0);
+	text-align: center;
+}
+.sani{
+	color: yellow;
+	text-align: center;
+	text-transform: uppercase;
+}
+.wire{
+	color: rgb(25, 226, 25);
+	text-align: center;
+}
+.image{
+
+	box-sizing: border-box;
+	background-color: cyan;
+	float: left;
+	width: 20%;
+	padding: 15px;
+	height: 160px;
+	}
+	h3{
+		text-align: center;
+		background-color: darkorange;
+		height: 20px;
+		width: 20%;
+	}
+	p{
+		color: rgb(48, 14, 199);
+	}
+	h4{
+		text-align: center;
+		background-color: darkorange;
+		height:20px;
+		width: 20%;
